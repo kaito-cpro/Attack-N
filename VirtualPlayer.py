@@ -1,7 +1,6 @@
 from common import *
 from PlayerFactory import PlayerFactory
 from Agent import *
-from Brain import Brain
 
 class VirtualPlayer:
 
